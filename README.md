@@ -1,4 +1,6 @@
-![Banner]([https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header](https://capsule-render.vercel.app/api?type=soft&text=Software%20Engineer%20%7C%20Full%20Stack%20Developer&fontSize=32&fontColor=ffffff&color=0:000000,100:8b0000&height=200&section=header))
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&text=Software%20Engineer%20%7C%20Full%20Stack%20Developer&fontSize=32&fontColor=ffffff&color=0:000000,100:8b0000&height=200&section=header" />
+</p>
 
 <h1 align="center">Simon Wong</h1>
 
@@ -14,6 +16,22 @@ I enjoy building clean, scalable, and user-focused applications across the stack
 
 ### 🛠️ Languages & Tools
 
+### 🖥️ Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,vue,python,java,cpp,docker,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,tailwind" />
+</p>
+
+### ⚙️ Backend / Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,php,laravel,cpp" />
+</p>
+
+### 🗄️ Databases & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,docker,linux,jenkins,postman" />
+</p>
+
+### 🛠️ Tools & Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,figma" />
 </p>
